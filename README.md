@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # ASPxGridView  - Batch Edit - How to use EditItemTemplate with DataItemTemplate.
 
-This example shows how to use DataItemTemplate and EditItemTemplate in Batch Edit mode together. The templates use ASPxRatingControl as content. 
+This example shows how to use DataItemTemplate and EditItemTemplate in Batch Edit mode. The templates use ASPxRatingControl as content. 
 
 ### Follow these steps: 
 
