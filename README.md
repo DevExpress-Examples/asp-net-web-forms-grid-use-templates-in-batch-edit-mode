@@ -1,9 +1,9 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
-* [BatchEditController.js](./CS/WebSite/BatchEditController.js) (VB: [BatchEditController.js](./VB/WebSite/BatchEditController.js))
+* [Default.aspx](./CS/BatchEditEditItemAndDataItemTemplates/Default.aspx) (VB: [Default.aspx](./VB/BatchEditEditItemAndDataItemTemplates/Default.aspx))
+* [Default.aspx.cs](./CS/BatchEditEditItemAndDataItemTemplates/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/BatchEditEditItemAndDataItemTemplates/Default.aspx.vb))
+* [BatchEditController.js](./CS/BatchEditEditItemAndDataItemTemplates/BatchEditController.js) (VB: [BatchEditController.js](./VB/BatchEditEditItemAndDataItemTemplates/BatchEditController.js))
 <!-- default file list end -->
 # ASPxGridView  - Batch Edit - How to use EditItemTemplate with DataItemTemplate.
 
