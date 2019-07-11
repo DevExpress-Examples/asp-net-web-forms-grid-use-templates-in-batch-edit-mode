@@ -6,6 +6,9 @@
 * [BatchEditController.js](./CS/BatchEditEditItemAndDataItemTemplates/BatchEditController.js) (VB: [BatchEditController.js](./VB/BatchEditEditItemAndDataItemTemplates/BatchEditController.js))
 <!-- default file list end -->
 # ASPxGridView  - Batch Edit - How to use EditItemTemplate with DataItemTemplate.
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/195209760/)**
+<!-- run online end -->
 
 This example shows how to use DataItemTemplate and EditItemTemplate in Batch Edit mode. The templates use ASPxRatingControl as content. 
 
