@@ -8,6 +8,11 @@
 <head runat="server">
 	<title>ASPxGridView-Batch-Edit-How-to-use-EditItemTemplate-with-DataItemTemplate</title>
 	<script type="text/javascript" src="BatchEditController.js"></script>
+	<style>
+        .ratingControl {
+            float:right;
+        }
+    </style>
 </head>
 <body>
 	<form id="form1" runat="server">
@@ -21,7 +26,7 @@
 					<dx:GridViewDataColumn FieldName="RatingValue" VisibleIndex="2">
 						<DataItemTemplate>
 							<dx:ASPxRatingControl ID="ratingControl" runat="server" ClientInstanceName='<%#"DataItemRateControl" & Container.VisibleIndex%>'
-								ItemCount="5" Value='<%#Convert.ToInt32(Eval("RatingValue"))%>'>
+								ItemCount="5" Value='<%#Convert.ToInt32(Eval("RatingValue"))%>' CssClass="ratingControl">
 								<ClientSideEvents ItemClick="OnItemMouseClick_DataItem" ItemMouseOver="OnItemMouseOver_DataItem" ItemMouseOut="OnItemMouseOut_DataItem"/>
 							</dx:ASPxRatingControl>
 						</DataItemTemplate>
