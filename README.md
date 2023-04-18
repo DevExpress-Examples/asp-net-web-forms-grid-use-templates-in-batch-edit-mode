@@ -7,7 +7,9 @@ This example demonstrates how to create a column's template, add a rating contro
 
 ![Templates in Batch Edit Mode](templatesInBatchMode.png)
 
-### Follow these steps: 
+## Overview:
+
+Follow the steps below to configure the grid's edit functionality for templated cells in batch mode:
 
 1. Create the [Grid View](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView) control, set its [Mode](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridViewEditingSettings.Mode) property to `Batch`, and enable the [AllowRegularDataItemTemplate](https://docs.devexpress.com/AspNet/DevExpress.Web.GridBatchEditSettings.AllowRegularDataItemTemplate) property.
 
