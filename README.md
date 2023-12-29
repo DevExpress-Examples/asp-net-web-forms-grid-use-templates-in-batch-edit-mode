@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to use an edit item and data item templates in batch mode
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/195209760/)**
-<!-- run online end -->
 
 This example demonstrates how to create a column's template, add a rating control to the template, and configure the grid's cell edit functionality in batch mode. 
 
